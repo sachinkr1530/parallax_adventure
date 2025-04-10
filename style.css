@@ -89,14 +89,14 @@ section {
 }
 
 .bg1 {
-    background-image: url(biking.jpeg);
+    background-image: url(data/biking.jpeg);
 
 }
 
 .bg2 {
-    background-image: url(para.jpg);
+    background-image: url(data/para.jpg);
 }
 
 .bg3 {
-    background-image: url(surfing.jpeg);
+    background-image: url(data/surfing.jpeg);
 }
